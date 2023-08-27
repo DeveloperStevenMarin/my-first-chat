@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/my-first-chat/static/css/main.94233ed9.css",
-    "main.js": "/my-first-chat/static/js/main.0c0b61d3.js",
+    "main.css": "/my-first-chat/static/css/main.b2b43b5c.css",
+    "main.js": "/my-first-chat/static/js/main.2e9e7324.js",
     "static/js/787.6f63661d.chunk.js": "/my-first-chat/static/js/787.6f63661d.chunk.js",
+    "static/media/valley.jpeg": "/my-first-chat/static/media/valley.24b66e6898c8d9962ebd.jpeg",
     "index.html": "/my-first-chat/index.html",
-    "main.94233ed9.css.map": "/my-first-chat/static/css/main.94233ed9.css.map",
-    "main.0c0b61d3.js.map": "/my-first-chat/static/js/main.0c0b61d3.js.map",
+    "main.b2b43b5c.css.map": "/my-first-chat/static/css/main.b2b43b5c.css.map",
+    "main.2e9e7324.js.map": "/my-first-chat/static/js/main.2e9e7324.js.map",
     "787.6f63661d.chunk.js.map": "/my-first-chat/static/js/787.6f63661d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94233ed9.css",
-    "static/js/main.0c0b61d3.js"
+    "static/css/main.b2b43b5c.css",
+    "static/js/main.2e9e7324.js"
   ]
 }
